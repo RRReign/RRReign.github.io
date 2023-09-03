@@ -24,11 +24,15 @@ index_img: /img/markdown.png
 
 $ax^2+by = c$
 
+<br>
+
 以下是用*和1.渲染出来的小tag
 
 * 
 
 1.
+
+<br>
 
 {% note success %}
 
