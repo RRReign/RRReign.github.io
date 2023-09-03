@@ -17,17 +17,17 @@
   
   
   <entry>
-    <title>test</title>
+    <title>Markdown语法记录</title>
     <link href="/2023/09/02/test/"/>
     <url>/2023/09/02/test/</url>
     
-    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="this-is-a-first-step"><a href="#this-is-a-first-step" class="headerlink" title="this is a first step"></a>this is a first step</h1><h2 id="two-step"><a href="#two-step" class="headerlink" title="two step"></a>two step</h2><p><strong>more strong</strong></p><blockquote><p>this is a yingyong</p></blockquote><p><img src="/img/markdown.png"></p><p>$ax^2+by &#x3D; c$</p><p>* </p><ol><li></li></ol><div class="note note-success">            <p>这是一条tag</p>          </div><p class="note note-primary">标签</p>]]></content>
+    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="一级大标题"><a href="#一级大标题" class="headerlink" title="一级大标题"></a>一级大标题</h1><p>用# 以此类推</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><strong>加粗用两个称号</strong></p><blockquote><p>引用用&gt;</p></blockquote><p>超链接用![]也可以放图片的路径</p><p><img src="/img/markdown.png"></p><p>数学公式用两个dollar</p><p>$ax^2+by &#x3D; c$</p><p>以下是用*和1.渲染出来的小tag</p><p>* </p><ol><li></li></ol><div class="note note-success">            <p>这是一条success的tag</p>          </div><p>这是一条endnote的tag</p><p class="note note-primary">标签</p>]]></content>
     
     
     
     <tags>
       
-      <tag>test1</tag>
+      <tag>备忘录</tag>
       
     </tags>
     
