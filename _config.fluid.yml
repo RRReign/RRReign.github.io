@@ -643,7 +643,7 @@ post:
 
     # CreativeCommons license
     # Options: BY | BY-SA | BY-ND | BY-NC | BY-NC-SA | BY-NC-ND
-    license: 'BY'
+    license: 'BY-NC-SA'
 
     # 显示作者
     author:
@@ -1003,7 +1003,7 @@ links:
       title: "Algor's Blog",
       intro: "Algorの博客",
       link: "https://Algor.top/",
-      avatar: "/img/Algor.png"
+      avatar: "https://www.algor.top/img/Algor.png"
     }
 
   # 当成员头像加载失败时，替换为指定图片
