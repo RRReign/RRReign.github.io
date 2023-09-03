@@ -21,7 +21,7 @@
     <link href="/2023/09/02/test/"/>
     <url>/2023/09/02/test/</url>
     
-    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="this-is-a-first-step"><a href="#this-is-a-first-step" class="headerlink" title="this is a first step"></a>this is a first step</h1><h2 id="two-step"><a href="#two-step" class="headerlink" title="two step"></a>two step</h2><p><strong>more strong</strong></p><blockquote><p>this is a yingyong</p></blockquote><p>$ax^2+by &#x3D; c$</p><p>*<br>1.</p>]]></content>
+    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="this-is-a-first-step"><a href="#this-is-a-first-step" class="headerlink" title="this is a first step"></a>this is a first step</h1><h2 id="two-step"><a href="#two-step" class="headerlink" title="two step"></a>two step</h2><p><strong>more strong</strong></p><blockquote><p>this is a yingyong</p></blockquote><p><img src="/img/markdown.png"></p><p>$ax^2+by &#x3D; c$</p><p>* </p><ol><li></li></ol><div class="note note-success">            <p>这是一条tag</p>          </div><p class="note note-primary">标签</p>]]></content>
     
     
     
