@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>毛笔的自学记录</title>
+    <link href="/2023/09/29/%E6%AF%9B%E7%AC%94%E7%9A%84%E8%87%AA%E5%AD%A6%E8%AE%B0%E5%BD%95/"/>
+    <url>/2023/09/29/%E6%AF%9B%E7%AC%94%E7%9A%84%E8%87%AA%E5%AD%A6%E8%AE%B0%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<h2 id="毛笔种类（简易）："><a href="#毛笔种类（简易）：" class="headerlink" title="毛笔种类（简易）："></a>毛笔种类（简易）：</h2><p>羊毫：软毫</p><p>狼毫：硬毫 黄鼠狼尾巴上的毫</p><p>紫毫：硬毫 山兔脖子上的毫 （鸡距笔就是兔毫的一种）</p><p>兼毫：多种毛料混合制成的笔</p><p>一般来说，楷书，适合兼毫毛笔、隶书、篆书适合羊毫毛笔，行书则适合 狼毫毛笔 </p><hr><p>我目前有的毛笔：<br>1.周虎臣兼毫（羊毫+狼毫）</p><hr><h2 id="起始练字背景："><a href="#起始练字背景：" class="headerlink" title="起始练字背景："></a>起始练字背景：</h2><p>看网上都说先练大字再练小字，这是合理的，但是我硬笔有一点点底子，我觉得写大字一方面是把字的结构给弄明白了，另一方面是把毛笔的基本笔画比较好掌握如何发力。</p><p>但是说实话，我写的中楷（也许不算？就是宣纸的一个田字格的1&#x2F;4的小格子）也是可以练到结构的，具体笔画的发力我感觉多写自然而然就会了，就是撇的部分有点难掌握。</p><p>我现在在临灵飞经，有点不自量力了，但是很喜欢灵飞经的风格，虽然没法完全百分百临帖，我对自己的要求只有把字写好看就行。更多的是在临灵飞经的时候有那种灵性的感觉加上字的结构。</p><h2 id="Day"><a href="#Day" class="headerlink" title="Day"></a>Day</h2><h3 id="day1"><a href="#day1" class="headerlink" title="day1"></a>day1</h3><p><img src="/img/m_day1.png"></p><p>Q：今天的疑惑在于<code>經</code>这个字，我发现很难写出他的灵性，好在大概掌握了他的结构。还有一个问题就是第一次蘸取完墨水后，下笔墨水太多了，就算在砚台上涂抹了几次还是没什么用，我用的方法是写几个大字，然后慢慢墨水少了就可以写小字了，不知道是什么原因导致的。</p><p>总结：学习了正确的处理毛笔的方法（原因是我昨天晚上刷B站的时候突然看到别人写字好好看，然后脑子一热买了一只50块的毛笔！），下笔之前先润一遍，完全润湿，然后用宣纸吸走部分水分，再蘸取墨水，蘸取墨水的时候要全部蘸取墨水，笔根部分也要，可以适当压一下，再在砚台上舔一下墨，笔锋锐利了，就可以开始写了。用完之后，先把毛笔放在有水的容器里，泡个10几秒，把笔根的墨水泡发出来，再用流动的水冲洗毛笔，可以适当的压一压，别太用力，再用宣纸把毛笔的水分吸一下，再用手把毛理顺来，然后挂着等干就行（防止水进入笔杆开裂）。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Evolve</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Oppenheimer</title>
     <link href="/2023/09/03/Oppenheimer/"/>
     <url>/2023/09/03/Oppenheimer/</url>
@@ -27,7 +46,7 @@
     <link href="/2023/09/02/test/"/>
     <url>/2023/09/02/test/</url>
     
-    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="一级大标题"><a href="#一级大标题" class="headerlink" title="一级大标题"></a>一级大标题</h1><p>用# 以此类推</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><strong>加粗用两个称号</strong></p><blockquote><p>引用用&gt;</p></blockquote><p>超链接用![]也可以放图片的路径</p><p><img src="/img/markdown.png"></p><p>数学公式用两个dollar</p><p>$ax^2+by &#x3D; c$</p><br><p>以下是用*和1.渲染出来的小tag</p><p>* </p><ol><li></li></ol><br><div class="note note-success">            <p>这是一条success的tag</p>          </div><p>这是一条endnote的tag</p><p class="note note-primary">标签</p>]]></content>
+    <content type="html"><![CDATA[<!-- ctrl+/ --><h1 id="一级大标题"><a href="#一级大标题" class="headerlink" title="一级大标题"></a>一级大标题</h1><p>用# 以此类推</p><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p><strong>加粗用两个称号</strong></p><blockquote><p>引用用&gt;</p></blockquote><p>超链接用![]也可以放图片的路径</p><p><img src="/img/markdown.png"></p><p>数学公式用两个dollar</p><p>$ax^2+by &#x3D; c$</p><br><p>以下是用*和1.渲染出来的小tag</p><p>* </p><ol><li></li></ol><br><div class="note note-success">            <p>这是一条success的tag</p>          </div><p>这是一条endnote的tag</p><p class="note note-primary">标签</p><p>强调可以用&#x3D;&#x3D;</p><p>也可以用<code> </code></p><p>居中一般用html标签 <center></center></p>]]></content>
     
     
     
