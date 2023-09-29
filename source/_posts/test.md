@@ -43,3 +43,9 @@ $ax^2+by = c$
 这是一条endnote的tag
 
 <p class="note note-primary">标签</p>
+
+强调可以用==
+
+也可以用` `
+
+居中一般用html标签 <center></center>
