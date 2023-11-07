@@ -49,3 +49,13 @@ $ax^2+by = c$
 也可以用` `
 
 居中一般用html标签 <center></center>
+
+hexo clean
+
+hexo deploy
+
+git add.
+
+git commit -m ""
+
+git push
