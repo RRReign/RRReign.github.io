@@ -25,3 +25,22 @@ The bar is pretty close to my office `as the crow flies`
 这酒吧离我的办公室只有一条直线距离,as the crow flies 意思为像乌鸦一样飞，乌鸦是直线飞的，也就是直线距离很近的意思
 
 >https://www.bilibili.com/video/BV1rA411S7TP?t=91.6
+
+## Day3
+`To make a long story short`，I haven't slept in weeks
+
+长话短说
+
+>https://www.bilibili.com/video/BV11A411S7Jv?t=137.7
+
+Breaking up could be a kind of `blessing in disguise` for some people
+
+分手对某些人来说可能是 __因祸得福__
+
+{% note success %}
+
+这是习语，不是俚语，习语一般而言是指说多了的约定俗成，俚语一般是某地方言一类的
+
+![发音读法](/img/English_day3.png)
+
+>https://www.bilibili.com/video/BV1884y1W7Qy?t=118.0
